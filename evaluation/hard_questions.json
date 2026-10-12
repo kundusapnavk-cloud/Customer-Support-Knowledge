@@ -1,0 +1,52 @@
+[
+{
+  "question": "I ended my TaskFlow subscription yesterday. Can I get my payment back?",
+  "expected_source": "refund-policy.md",
+  "supported": true
+},
+{
+  "question": "I forgot the password I use to sign into TaskFlow. How can I regain access?",
+  "expected_source": "reset-password.md",
+  "supported": true
+},
+{
+  "question": "I need a billing document showing what TaskFlow charged me. Where can I get it?",
+  "expected_source": "invoices.md",
+  "supported": true
+},
+{
+  "question": "After I close my TaskFlow account, what happens to the data I stored?",
+  "expected_source": "data-retention.md",
+  "supported": true
+},
+  {
+    "question": "Can I make TaskFlow messages appear inside Slack?",
+    "expected_source": "slack-integration.md",
+    "supported": true
+  },
+  {
+    "question": "Can TaskFlow refund me after three years?",
+    "expected_source": "refund-policy.md",
+    "supported": true
+  },
+  {
+    "question": "Does TaskFlow accept Bitcoin?",
+    "expected_source": null,
+    "supported": false
+  },
+  {
+    "question": "Can TaskFlow automatically book a hotel for my team?",
+    "expected_source": null,
+    "supported": false
+  },
+  {
+    "question": "Does TaskFlow provide health insurance?",
+    "expected_source": null,
+    "supported": false
+  },
+  {
+    "question": "Can I order lunch through TaskFlow?",
+    "expected_source": null,
+    "supported": false
+  }
+]

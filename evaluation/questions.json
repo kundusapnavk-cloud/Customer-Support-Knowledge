@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Can I get a refund after cancelling?",
+    "expected_source": "refund-policy.md"
+  },
+  {
+    "question": "How do I reset my password?",
+    "expected_source": "reset-password.md"
+  },
+  {
+    "question": "Where can I download an invoice?",
+    "expected_source": "invoices.md"
+  },
+  {
+    "question": "How do I invite someone to my workspace?",
+    "expected_source": "invite-members.md"
+  },
+  {
+    "question": "How do I connect Slack?",
+    "expected_source": "slack-integration.md"
+  }
+]
